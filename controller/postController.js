@@ -67,7 +67,7 @@ const DeleteAllPost = async (req,res)=>{
 
 
 // OnePost();
-countPosts();
+// countPosts();
 // getAllPost();
 
 module.exports = { createPost,countPosts,getAllPost,OnePost };
